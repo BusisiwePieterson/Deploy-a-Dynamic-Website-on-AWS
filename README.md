@@ -7,11 +7,25 @@ This also helped me understand how encryption in transit happens. How to secure 
 
 Oh yes, I got FRUSTRATED whenever the results didn't turn out as I expected but it felt great when I resolved it.
 
-The core services I used in this project are:
+## Objectives
 
-1. 3-tier VPC with public and private subnets
-2. Security groups and EC2 instances
-3. NAT gateways and RDS
-4. ALB and Route 53
-5. ASG and Certificate Manager
-6. MySQL Workbench, EFS, and more
+1. Create VPC with Public and Private Subnets
+2. Create NAT Gateways in the Public Subnets
+3. Create the Security Groups
+4. Create the RDS Instance
+5. Create S3 Buckets
+6. Create an IAM Role with S3 Policy
+7. Deploy an eCommerce Website
+8. Import the Dummy Data for the Website
+9. Create an Amazon Machine Image(AMI)
+10. Create an Application Load Balancer
+11. Register a New Domain Name in Route 53
+12. Create a Record Set in Route 53
+13. Register for an SSL Certificate in AWS Certificate Manager
+14. Create an HTTPS Listener
+15. SSH into an EC2 Instance in the Private Subnets
+16. Update the ENV file
+17. Create Another AMI
+18. Create an Auto Scaling Group
+19. Clean Up
+
