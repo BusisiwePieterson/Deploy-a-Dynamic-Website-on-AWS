@@ -5,6 +5,10 @@ This project made me realize how Ecommerce websites/apps such as Amazon, Shopify
 
 This also helped me understand how encryption in transit happens. How to secure the communication between the web browser and the domain name.
 
+<p align="center">
+  <img src="Deploy a dynamic website on AWS.png">
+</p>
+
 Oh yes, I got FRUSTRATED whenever the results didn't turn out as I expected but it felt great when I resolved it.
 
 ## Objectives
